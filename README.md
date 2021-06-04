@@ -12,3 +12,6 @@ Refactoring project 1 JavaScript program to to practice using git in VSCode and 
 - function that will return a single, random, lowercase letter. 
 - function that will return the random length string. 
 - function that will return a string in ascending order.
+
+Git in VSCode  
+![Screenshot](p2-vscode-diff.png)
